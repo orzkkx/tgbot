@@ -1,7 +1,7 @@
-Bonjour! Bienvenue sur mon chatbot.
+您好！欢迎使用我的聊天机器人。
 
-Instructions:
-• Votre message me sera transmis directement et vous pourrez continuer à m'envoyer du texte, des images ou du contenu vidéo si nécessaire.
-• Veuillez expliquer brièvement votre identité et votre objectif, je vous répondrai après confirmation~
+使用方法：
+ • 您发来的消息会直接转给我，有需要的话可以继续发送文字、图片或视频内容。
+ • 请简单说明下您的身份和来意，我确认后会回复您～
 
-Au plaisir de communiquer avec vous!
+期待与您交流！
