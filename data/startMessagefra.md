@@ -1,7 +1,5 @@
-您好！欢迎使用我的聊天机器人。
+Chers utilisateurs !
 
-使用方法：
- • 您发来的消息会直接转给我，有需要的话可以继续发送文字、图片或视频内容。
- • 请简单说明下您的身份和来意，我确认后会回复您～
+*Veuillez m'envoyer votre numéro de téléphone enregistré et le problème auquel vous êtes confronté, et je vous répondrai dans les plus brefs délais.
 
-期待与您交流！
+Au plaisir de communiquer avec vous!
